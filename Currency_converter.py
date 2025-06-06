@@ -4,7 +4,7 @@ import streamlit as st
 import requests
 
 #Set title
-st.title("Live Currency Converter")
+st.title("Live :rainbow[Currency] Converter")
 
 #Taking inputs fro user
 amount = st.number_input("Enter the amount in INR: ", 1)
